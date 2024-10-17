@@ -15,7 +15,7 @@ const email = [
 console.log(email);
 
 //ciclo for
-for (let i = 0; i < email.length; i++) {
+for (let i = 0; i < 10; i++) {
     const element = email[i];
 
 }
