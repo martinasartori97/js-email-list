@@ -12,8 +12,15 @@ const email = [
     "francesco.rinaldi@zoho.com",
     "laura.conti@aol.com"
 ];
-
 console.log(email);
+
+//ciclo for
+for (let i = 0; i < email.length; i++) {
+    const element = email[i];
+
+}
+console.log(email);
+
 
 
 
