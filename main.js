@@ -21,6 +21,12 @@ for (let i = 0; i < email.length; i++) {
 }
 console.log(email);
 
+// forEach
+email.forEach(element => {
+    console.log(email);
+
+});
+
 
 
 
